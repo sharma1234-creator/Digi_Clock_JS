@@ -1,0 +1,13 @@
+#clock { 
+    font-size: 175px; 
+    width: 1000px; 
+    margin: 200px 0px 0px 255px; 
+    text-align: center; 
+    border: 2px solid rgb(24, 3, 3); 
+    border-radius: 100px; 
+
+} 
+
+body{
+    background-image: url("billy-huynh-W8KTS-mhFUE-unsplash.jpg");
+}
